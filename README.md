@@ -1,6 +1,6 @@
 # IP Indicator
 
-![indicator](/images/screenshot.png)
+![indicator](https://github.com/sentientwaffle/unity-ip-indicator/raw/master/images/screenshot.png)
 
 A Ubuntu indicator applet which displays the current (subnet) IP address.
 
