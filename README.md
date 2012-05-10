@@ -2,7 +2,8 @@
 
 ![indicator](https://github.com/sentientwaffle/unity-ip-indicator/raw/master/images/screenshot.png)
 
-A Ubuntu indicator applet which displays the current (subnet) IP address.
+A Ubuntu [indicator](http://unity.ubuntu.com/projects/appindicators/)
+to display the current (subnet) IP address.
 
 Tested on Ubuntu 12.04 with Unity.
 
